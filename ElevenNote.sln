@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.WebMBC", "ElevenNote.WebMBC\ElevenNote.WebMBC.csproj", "{7DF571B9-B5C3-4282-A8C3-0B6B5D474D8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.WebMVC", "ElevenNote.WebMBC\ElevenNote.WebMVC.csproj", "{7DF571B9-B5C3-4282-A8C3-0B6B5D474D8C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Data", "ElevenNote.Data\ElevenNote.Data.csproj", "{49B8FF08-5C59-44C8-9E07-3B762D78A1FC}"
 EndProject
